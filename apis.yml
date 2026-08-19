@@ -24,7 +24,7 @@ x-tier-reason: portfolio-lead
 x-status: acquired
 x-acquired-by: wunderkind
 x-note: smarterhq.com blanket-301-redirects every path to https://www.wunderkind.co/blog/article/smarterhq-wunderkind-audiences/ (verified 2026-07-21); no api/app/developer/docs subdomains resolve, no developer portal, no API surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
